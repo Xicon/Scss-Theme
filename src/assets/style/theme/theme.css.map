@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["theme.scss","dark.scss","../setting/_varibble.scss","light.scss","pink.scss"],"names":[],"mappings":"AAQA;EACE;ICJD,OCDY;IDEZ,kBCIS;;;AFIV;EACC;IGVA,ODFa;ICGb;;;AHcD;ECfC,OCDY;EDEZ,kBCIS;;;AFcV;EGnBC,ODFa;ECGb;;;AHsBD;EIvBC;EACA,kBFKS","file":"theme.css"}

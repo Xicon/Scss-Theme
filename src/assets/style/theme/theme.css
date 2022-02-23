@@ -1,0 +1,28 @@
+@media screen and (prefers-color-scheme: dark) {
+  body {
+    color: #333333;
+    background-color: #fff;
+  }
+}
+@media screen and (prefers-color-scheme: light) {
+  body {
+    color: #17a2b8;
+    background-color: cornsilk;
+  }
+}
+.dark {
+  color: #333333;
+  background-color: #fff;
+}
+
+.light {
+  color: #17a2b8;
+  background-color: cornsilk;
+}
+
+.pink {
+  color: #dc3545;
+  background-color: #1234;
+}
+
+/*# sourceMappingURL=theme.css.map */

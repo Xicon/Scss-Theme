@@ -1,0 +1,31 @@
+﻿@charset "UTF-8";
+
+@use "./dark";
+@use "./light";
+@use "./pink";
+
+//@layer sm,md,xxl,xl,lg
+
+@media screen and (prefers-color-scheme: dark) {
+  body {
+    @include dark.dark
+  }
+}
+
+@media screen and(prefers-color-scheme: light) {
+	body {
+    @include light.light
+  }
+}
+
+.dark {
+	@include dark.dark
+}
+
+.light {
+	@include light.light
+}
+
+.pink {
+	@include pink.pink
+}

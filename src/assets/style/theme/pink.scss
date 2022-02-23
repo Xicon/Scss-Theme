@@ -1,0 +1,8 @@
+﻿@charset "UTF-8";
+
+@import "../setting/varibble";
+
+@mixin pink($theme: pink) {
+	color: $pink-color;
+	background-color: $pink-bc;
+}

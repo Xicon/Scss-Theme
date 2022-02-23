@@ -1,0 +1,8 @@
+﻿@charset "UTF-8";
+
+@import "../setting/varibble";
+
+@mixin light($theme: light){
+	color: $light-color;
+	background-color: cornsilk;
+}

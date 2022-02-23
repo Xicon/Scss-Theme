@@ -1,0 +1,8 @@
+﻿@charset "UTF-8";
+
+@import "../setting/varibble";
+
+@mixin dark($theme: dark) {
+	color: $dark-color;
+	background-color: $dark-bc;
+}
